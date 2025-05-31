@@ -1,0 +1,9 @@
+The size of int: 4
+The size of char: 1
+The size of bool: 1
+The size of short: 2
+The size of long: 4
+The size of unsigned long: 4
+The size of size_t: 8
+The size of float: 4
+The size of double: 8

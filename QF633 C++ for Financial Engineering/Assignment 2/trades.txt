@@ -1,0 +1,7 @@
+tradeId;notional;strike;isCall;expiry;
+1;100000;90;true;1;
+2;3k;105;true;2;
+3;2000;105;false;.5;
+4;15000;98;false;3;
+5;15000;101;true;1.5;
+

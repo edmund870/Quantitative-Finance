@@ -1,0 +1,7 @@
+trade id            trade info                                                                 trade pv            
+------------------------------------------------------------------------------------------------------------------------
+1                   Notional: 100000.000000, Strike: 90.000000, Expiry: 0.498630, Type: Call      1331356.98          
+2                   Notional: 3000.000000, Strike: 105.000000, Expiry: 2.019178, Type: Call      39741.51            
+3                   Notional: 2000.000000, Strike: 105.000000, Expiry: 0.106849, Type: Put      10991.47            
+4                   Notional: 15000.000000, Strike: 98.000000, Expiry: 4.646575, Type: Put      107188.77           
+5                   Notional: 15000.000000, Strike: 101.000000, Expiry: 0.413699, Type: Call      83239.27            

@@ -1,0 +1,1 @@
+{"INTC_CTAS": {"beta_win": 848, "z_win": 904, "z_entry": 1.2000000000000002, "z_exit": 1.4, "z_stop_scaler": 1.6, "trade_freq": "7m", "stop_loss": 0.025}, "MU_CTAS": {"beta_win": 472, "z_win": 16, "z_entry": 1.0, "z_exit": 1.1, "z_stop_scaler": 1.6, "trade_freq": "10m", "stop_loss": 0.025}, "pairs_to_trade": 2, "buffer_capital": 0.05}

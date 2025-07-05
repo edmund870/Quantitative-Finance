@@ -1,0 +1,1 @@
+{"MDLZ_TXN": {"beta_win": 458, "z_win": 144, "z_entry": 1.0, "z_exit": 2.5, "trade_freq": "2m", "stop_loss": 0.003, "z_stop_scaler": 1.0}, "INTC_MSFT": {"beta_win": 962, "z_win": 596, "z_entry": 3.0, "z_exit": 2.0, "trade_freq": "1m", "stop_loss": 0.002, "z_stop_scaler": 1.8}, "pairs_to_trade": 2, "buffer_capital": 0.15000000000000002}

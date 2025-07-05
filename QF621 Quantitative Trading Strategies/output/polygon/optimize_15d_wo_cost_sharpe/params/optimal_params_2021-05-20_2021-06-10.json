@@ -1,0 +1,1 @@
+{"JD_TMUS": {"beta_win": 440, "z_win": 804, "z_entry": 3.5, "z_exit": 1.0, "trade_freq": "1m", "stop_loss": 0.005, "z_stop_scaler": 1.1}, "BIIB_SIRI": {"beta_win": 256, "z_win": 234, "z_entry": 3.5, "z_exit": 2.0, "trade_freq": "4m", "stop_loss": 0.009000000000000001, "z_stop_scaler": 1.6}, "pairs_to_trade": 2, "buffer_capital": 0.1}

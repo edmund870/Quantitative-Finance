@@ -1,0 +1,1 @@
+{"ADI_IDXX": {"beta_win": 40, "z_win": 304, "z_entry": 2.0, "z_exit": 2.5, "trade_freq": "4m", "stop_loss": 0.009000000000000001, "z_stop_scaler": 0.8}, "EBAY_SPLK": {"beta_win": 954, "z_win": 24, "z_entry": 3.5, "z_exit": 3.5, "trade_freq": "3m", "stop_loss": 0.005, "z_stop_scaler": 1.5}, "pairs_to_trade": 2, "buffer_capital": 0.45}

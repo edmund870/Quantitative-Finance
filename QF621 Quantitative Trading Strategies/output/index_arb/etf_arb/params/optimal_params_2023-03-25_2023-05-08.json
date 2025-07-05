@@ -1,0 +1,1 @@
+{"XLBsynprice_XLB": {"beta_win": 16, "z_win": 58, "z_entry": 0.9, "z_exit": 0.6, "z_stop_scaler": 2.5, "trade_freq": "3m", "stop_loss": 0.04}, "pairs_to_trade": 1, "buffer_capital": 0.2}

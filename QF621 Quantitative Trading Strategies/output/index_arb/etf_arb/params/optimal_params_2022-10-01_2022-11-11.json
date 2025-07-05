@@ -1,0 +1,1 @@
+{"XLKsynprice_XLK": {"beta_win": 28, "z_win": 52, "z_entry": 0.5, "z_exit": 0.6, "z_stop_scaler": 2.5, "trade_freq": "3m", "stop_loss": 0.027500000000000004}, "pairs_to_trade": 1, "buffer_capital": 0.45}

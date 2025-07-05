@@ -1,0 +1,1 @@
+{"FAST_MU": {"beta_win": 464, "z_win": 832, "z_entry": 0.5, "z_exit": 0.8, "z_stop_scaler": 1.2000000000000002, "trade_freq": "10m", "stop_loss": 0.05}, "COST_INTU": {"beta_win": 952, "z_win": 992, "z_entry": 0.5, "z_exit": 1.3, "z_stop_scaler": 1.2000000000000002, "trade_freq": "7m", "stop_loss": 0.025}, "pairs_to_trade": 2, "buffer_capital": 0.05}

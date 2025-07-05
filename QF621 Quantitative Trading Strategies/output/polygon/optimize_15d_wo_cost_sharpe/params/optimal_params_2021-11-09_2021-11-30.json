@@ -1,0 +1,1 @@
+{"COST_INTC": {"beta_win": 754, "z_win": 830, "z_entry": 2.5, "z_exit": 2.5, "trade_freq": "3m", "stop_loss": 0.008, "z_stop_scaler": 1.2000000000000002}, "ROST_TXN": {"beta_win": 600, "z_win": 828, "z_entry": 2.5, "z_exit": 3.5, "trade_freq": "3m", "stop_loss": 0.006, "z_stop_scaler": 0.8}, "pairs_to_trade": 2, "buffer_capital": 0.45}

@@ -1,0 +1,1 @@
+{"ROP_ROST": {"beta_win": 104, "z_win": 900, "z_entry": 3.0, "z_exit": 2.5, "trade_freq": "4m", "stop_loss": 0.01, "z_stop_scaler": 1.2000000000000002}, "MAR_MRVL": {"beta_win": 818, "z_win": 360, "z_entry": 3.0, "z_exit": 3.5, "trade_freq": "3m", "stop_loss": 0.006, "z_stop_scaler": 0.6}, "pairs_to_trade": 2, "buffer_capital": 0.45}

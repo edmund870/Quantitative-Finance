@@ -1,0 +1,1 @@
+{"XLVsynprice_XLV": {"beta_win": 50, "z_win": 40, "z_entry": 0.9, "z_exit": 0.7, "z_stop_scaler": 1.5, "trade_freq": "4m", "stop_loss": 0.025}, "XLREsynprice_XLRE": {"beta_win": 24, "z_win": 58, "z_entry": 1.0, "z_exit": 0.8, "z_stop_scaler": 1.5, "trade_freq": "2m", "stop_loss": 0.015}, "pairs_to_trade": 2, "buffer_capital": 0.05}

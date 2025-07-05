@@ -1,0 +1,1 @@
+{"synprice_QQQ": {"beta_win": 144, "z_win": 776, "z_entry": 1.5, "z_exit": 1.2000000000000002, "z_stop_scaler": 1.6, "trade_freq": "2m", "stop_loss": 0.025}, "pairs_to_trade": 6, "buffer_capital": 0.05}

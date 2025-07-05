@@ -1,0 +1,1 @@
+{"ASML_CSCO": {"beta_win": 104, "z_win": 392, "z_entry": 0.5, "z_exit": 0.7, "z_stop_scaler": 1.3, "trade_freq": "7m", "stop_loss": 0.05}, "CSCO_SBUX": {"beta_win": 560, "z_win": 64, "z_entry": 0.9, "z_exit": 0.8, "z_stop_scaler": 1.6, "trade_freq": "7m", "stop_loss": 0.025}, "pairs_to_trade": 2, "buffer_capital": 0.05}

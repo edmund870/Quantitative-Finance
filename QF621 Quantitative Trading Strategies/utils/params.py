@@ -1,0 +1,11 @@
+class PARAMS:
+    beta_win = "beta_win"
+    beta_freq = "beta_freq"
+    hurst_win = "hurst_win"
+    z_win = "z_win"
+    z_entry = "z_entry"
+    z_exit = "z_exit"
+    z_stop_scaler = "z_stop_scaler"
+    stop_loss = "stop_loss"
+    trade_freq = "trade_freq"
+    buffer_capital = "buffer_capital"

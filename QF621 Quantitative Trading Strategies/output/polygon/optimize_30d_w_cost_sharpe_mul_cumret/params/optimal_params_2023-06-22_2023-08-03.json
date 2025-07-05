@@ -1,0 +1,1 @@
+{"FANG_ILMN": {"beta_win": 680, "z_win": 912, "z_entry": 3.0, "z_exit": 2.0, "trade_freq": "3m", "stop_loss": 0.003, "z_stop_scaler": 1.7000000000000002}, "DXCM_ORLY": {"beta_win": 716, "z_win": 406, "z_entry": 3.0, "z_exit": 1.5, "trade_freq": "1m", "stop_loss": 0.003, "z_stop_scaler": 1.4}, "pairs_to_trade": 2, "buffer_capital": 0.3}

@@ -1,0 +1,1 @@
+{"XLCsynprice_XLC": {"beta_win": 10, "z_win": 20, "z_entry": 0.6, "z_exit": 0.6, "z_stop_scaler": 2.5, "trade_freq": "3m", "stop_loss": 0.0475}, "pairs_to_trade": 1, "buffer_capital": 0.2}

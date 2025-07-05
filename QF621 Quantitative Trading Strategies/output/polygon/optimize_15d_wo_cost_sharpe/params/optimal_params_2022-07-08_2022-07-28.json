@@ -1,0 +1,1 @@
+{"GOOG_GOOGL": {"beta_win": 430, "z_win": 246, "z_entry": 2.5, "z_exit": 3.0, "trade_freq": "2m", "stop_loss": 0.001, "z_stop_scaler": 1.9000000000000001}, "TSLA_DXCM": {"beta_win": 222, "z_win": 84, "z_entry": 1.5, "z_exit": 1.0, "trade_freq": "1m", "stop_loss": 0.01, "z_stop_scaler": 1.8}, "pairs_to_trade": 2, "buffer_capital": 0.3}

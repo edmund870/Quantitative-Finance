@@ -1,0 +1,1 @@
+{"INTC_AMGN": {"beta_win": 150, "z_win": 580, "z_entry": 1.4000000000000001, "z_exit": -1.7999999999999998, "trade_freq": "15m"}, "TTWO_AMGN": {"beta_win": 800, "z_win": 410, "z_entry": 1.9000000000000001, "z_exit": -1.5, "trade_freq": "44m"}, "AAPL_TSLA": {"beta_win": 980, "z_win": 990, "z_entry": 0.6000000000000001, "z_exit": -2.0, "trade_freq": "18m"}}

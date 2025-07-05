@@ -1,0 +1,1 @@
+{"XLYsynprice_XLY": {"beta_win": 36, "z_win": 56, "z_entry": 0.9, "z_exit": 0.9, "z_stop_scaler": 2.0, "trade_freq": "4m", "stop_loss": 0.03}, "pairs_to_trade": 1, "buffer_capital": 0.45}

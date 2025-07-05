@@ -1,0 +1,1 @@
+{"XLREsynprice_XLRE": {"beta_win": 12, "z_win": 30, "z_entry": 0.8, "z_exit": 0.8, "z_stop_scaler": 1.5, "trade_freq": "2m", "stop_loss": 0.015}, "pairs_to_trade": 1, "buffer_capital": 0.5}

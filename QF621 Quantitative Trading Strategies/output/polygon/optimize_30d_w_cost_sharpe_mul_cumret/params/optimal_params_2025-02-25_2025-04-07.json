@@ -1,0 +1,1 @@
+{"ADP_PAYX": {"beta_win": 516, "z_win": 906, "z_entry": 4.0, "z_exit": 3.5, "trade_freq": "1m", "stop_loss": 0.003, "z_stop_scaler": 1.6}, "pairs_to_trade": 1, "buffer_capital": 0.25}

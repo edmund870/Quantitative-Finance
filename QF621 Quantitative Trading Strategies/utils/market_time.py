@@ -1,0 +1,8 @@
+class market_hours:
+    DAYLIGHT = "DAYLIGHT"
+    NORMAL = "NORMAL"
+    PRE = "PRE"
+    MARKET = 'MARKET'
+    MARKET_OPEN = "MARKET_OPEN"
+    MARKET_CLOSE = "MARKET_CLOSE"
+    POST = "POST"

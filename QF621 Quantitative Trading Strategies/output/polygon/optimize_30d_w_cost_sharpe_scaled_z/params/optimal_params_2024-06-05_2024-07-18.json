@@ -1,0 +1,1 @@
+{"DASH_PCAR": {"beta_win": 912, "z_win": 112, "z_entry": 0.8, "z_exit": 0.6, "z_stop_scaler": 1.1, "trade_freq": "7m", "stop_loss": 0.05}, "pairs_to_trade": 1, "buffer_capital": 0.4}

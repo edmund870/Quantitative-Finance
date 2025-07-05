@@ -1,0 +1,1 @@
+{"IDXX_ON": {"beta_win": 1024, "z_win": 828, "z_entry": 1.5, "z_exit": 1.0, "trade_freq": "4m", "stop_loss": 0.009000000000000001, "z_stop_scaler": 0.8}, "ARM_ROP": {"beta_win": 732, "z_win": 88, "z_entry": 4.0, "z_exit": 2.0, "trade_freq": "3m", "stop_loss": 0.001, "z_stop_scaler": 0.8}, "pairs_to_trade": 2, "buffer_capital": 0.05}

@@ -1,0 +1,114 @@
+value date          trade id            trade info                              trade pv            
+------------------------------------------------------------------------------------------------------------------------
+2025-6-4            1                   Swap_0.045000_2027-1-3                  -86577.08           
+2025-6-4            2                   Swap_0.030000_2029-1-3                  -947198.06          
+2025-6-4            3                   Bond_0.025000_2035-1-3                  90038.14            
+2025-6-4            4                   EU_625.000000_0_APPL_2026-1-3           5843016.18          
+2025-6-4            4_Black_price       Black                                   5844992.23          
+2025-6-4            5                   EU_700.000000_1_APPL_2027-1-3           10172713.72         
+2025-6-4            5_Black_price       Black                                   10125924.80         
+2025-6-4            6                   AM_625.000000_0_APPL_2026-1-3           5843016.18          
+2025-6-4            7                   AM_700.000000_1_APPL_2027-1-3           12063216.97         
+------------------------------------------------------------------------------------------------------------------------
+Compare CRR binomial tree result for an european option vs Black model
+------------------------------------------------------------------------------------------------------------------------
+Pricing Error For 100 steps for EU_625.000000_0_APPL_2026-1-3: -7931.66
+Pricing Error For 200 steps for EU_625.000000_0_APPL_2026-1-3: -1796.89
+Pricing Error For 300 steps for EU_625.000000_0_APPL_2026-1-3: -1727.87
+Pricing Error For 400 steps for EU_625.000000_0_APPL_2026-1-3: -188.675
+Pricing Error For 500 steps for EU_625.000000_0_APPL_2026-1-3: -1633.28
+Pricing Error For 600 steps for EU_625.000000_0_APPL_2026-1-3: -99.0196
+Pricing Error For 700 steps for EU_625.000000_0_APPL_2026-1-3: -210.431
+Pricing Error For 800 steps for EU_625.000000_0_APPL_2026-1-3: -1005.63
+Pricing Error For 900 steps for EU_625.000000_0_APPL_2026-1-3: -579.657
+Pricing Error For 1000 steps for EU_625.000000_0_APPL_2026-1-3: 561.716
+Pricing Error For 1100 steps for EU_625.000000_0_APPL_2026-1-3: -322.898
+Pricing Error For 1200 steps for EU_625.000000_0_APPL_2026-1-3: -671.193
+Pricing Error For 1300 steps for EU_625.000000_0_APPL_2026-1-3: -485.911
+Pricing Error For 1400 steps for EU_625.000000_0_APPL_2026-1-3: 72.7675
+Pricing Error For 1500 steps for EU_625.000000_0_APPL_2026-1-3: 95.8809
+Pricing Error For 1600 steps for EU_625.000000_0_APPL_2026-1-3: -359.049
+Pricing Error For 1700 steps for EU_625.000000_0_APPL_2026-1-3: -481.148
+Pricing Error For 1800 steps for EU_625.000000_0_APPL_2026-1-3: -346.488
+Pricing Error For 1900 steps for EU_625.000000_0_APPL_2026-1-3: -12.7777
+Pricing Error For 2000 steps for EU_625.000000_0_APPL_2026-1-3: 215.309
+Pricing Error For 2100 steps for EU_625.000000_0_APPL_2026-1-3: -160.154
+Pricing Error For 2200 steps for EU_625.000000_0_APPL_2026-1-3: -336.379
+Pricing Error For 2300 steps for EU_625.000000_0_APPL_2026-1-3: -348.864
+Pricing Error For 2400 steps for EU_625.000000_0_APPL_2026-1-3: -226.335
+Pricing Error For 2500 steps for EU_625.000000_0_APPL_2026-1-3: 7.79383
+Pricing Error For 2600 steps for EU_625.000000_0_APPL_2026-1-3: 192.351
+Pricing Error For 2700 steps for EU_625.000000_0_APPL_2026-1-3: -80.1542
+Pricing Error For 2800 steps for EU_625.000000_0_APPL_2026-1-3: -232.372
+Pricing Error For 2900 steps for EU_625.000000_0_APPL_2026-1-3: -281.354
+Pricing Error For 3000 steps for EU_625.000000_0_APPL_2026-1-3: -241.547
+Pricing Error For 3100 steps for EU_625.000000_0_APPL_2026-1-3: -125.247
+Pricing Error For 3200 steps for EU_625.000000_0_APPL_2026-1-3: 57.0405
+Pricing Error For 3300 steps for EU_625.000000_0_APPL_2026-1-3: 123.677
+Pricing Error For 3400 steps for EU_625.000000_0_APPL_2026-1-3: -63.5589
+Pricing Error For 3500 steps for EU_625.000000_0_APPL_2026-1-3: -176.23
+Pricing Error For 3600 steps for EU_625.000000_0_APPL_2026-1-3: -222.905
+Pricing Error For 3700 steps for EU_625.000000_0_APPL_2026-1-3: -211.09
+Pricing Error For 3800 steps for EU_625.000000_0_APPL_2026-1-3: -147.378
+Pricing Error For 3900 steps for EU_625.000000_0_APPL_2026-1-3: -37.5758
+Pricing Error For 4000 steps for EU_625.000000_0_APPL_2026-1-3: 113.19
+Pricing Error For 4100 steps for EU_625.000000_0_APPL_2026-1-3: 52.5262
+Pricing Error For 4200 steps for EU_625.000000_0_APPL_2026-1-3: -71.8529
+Pricing Error For 4300 steps for EU_625.000000_0_APPL_2026-1-3: -148.527
+Pricing Error For 4400 steps for EU_625.000000_0_APPL_2026-1-3: -182.016
+Pricing Error For 4500 steps for EU_625.000000_0_APPL_2026-1-3: -176.379
+Pricing Error For 4600 steps for EU_625.000000_0_APPL_2026-1-3: -135.265
+Pricing Error For 4700 steps for EU_625.000000_0_APPL_2026-1-3: -61.9628
+Pricing Error For 4800 steps for EU_625.000000_0_APPL_2026-1-3: 40.5612
+Pricing Error For 4900 steps for EU_625.000000_0_APPL_2026-1-3: 108.833
+Pricing Error For 5000 steps for EU_625.000000_0_APPL_2026-1-3: -5.30539
+Pricing Error For 5100 steps for EU_625.000000_0_APPL_2026-1-3: -85.2074
+Pricing Error For 5200 steps for EU_625.000000_0_APPL_2026-1-3: -133.609
+Pricing Error For 5300 steps for EU_625.000000_0_APPL_2026-1-3: -153.008
+Pricing Error For 5400 steps for EU_625.000000_0_APPL_2026-1-3: -145.689
+Pricing Error For 5500 steps for EU_625.000000_0_APPL_2026-1-3: -113.746
+Pricing Error For 5600 steps for EU_625.000000_0_APPL_2026-1-3: -59.0955
+Pricing Error For 5700 steps for EU_625.000000_0_APPL_2026-1-3: 16.5016
+Pricing Error For 5800 steps for EU_625.000000_0_APPL_2026-1-3: 111.428
+Pricing Error For 5900 steps for EU_625.000000_0_APPL_2026-1-3: 25.7881
+Pricing Error For 6000 steps for EU_625.000000_0_APPL_2026-1-3: -46.0772
+Pricing Error For 6100 steps for EU_625.000000_0_APPL_2026-1-3: -94.9602
+Pricing Error For 6200 steps for EU_625.000000_0_APPL_2026-1-3: -122.416
+Pricing Error For 6300 steps for EU_625.000000_0_APPL_2026-1-3: -129.888
+Pricing Error For 6400 steps for EU_625.000000_0_APPL_2026-1-3: -118.711
+Pricing Error For 6500 steps for EU_625.000000_0_APPL_2026-1-3: -90.1284
+Pricing Error For 6600 steps for EU_625.000000_0_APPL_2026-1-3: -45.2931
+Pricing Error For 6700 steps for EU_625.000000_0_APPL_2026-1-3: 14.7212
+Pricing Error For 6800 steps for EU_625.000000_0_APPL_2026-1-3: 88.9163
+Pricing Error For 6900 steps for EU_625.000000_0_APPL_2026-1-3: 32.5758
+Pricing Error For 7000 steps for EU_625.000000_0_APPL_2026-1-3: -27.5423
+Pricing Error For 7100 steps for EU_625.000000_0_APPL_2026-1-3: -70.7797
+Pricing Error For 7200 steps for EU_625.000000_0_APPL_2026-1-3: -98.1211
+Pricing Error For 7300 steps for EU_625.000000_0_APPL_2026-1-3: -110.489
+Pricing Error For 7400 steps for EU_625.000000_0_APPL_2026-1-3: -108.747
+Pricing Error For 7500 steps for EU_625.000000_0_APPL_2026-1-3: -93.7072
+Pricing Error For 7600 steps for EU_625.000000_0_APPL_2026-1-3: -66.1308
+Pricing Error For 7700 steps for EU_625.000000_0_APPL_2026-1-3: -26.7327
+Pricing Error For 7800 steps for EU_625.000000_0_APPL_2026-1-3: 23.8146
+Pricing Error For 7900 steps for EU_625.000000_0_APPL_2026-1-3: 84.8794
+Pricing Error For 8000 steps for EU_625.000000_0_APPL_2026-1-3: 25.4225
+Pricing Error For 8100 steps for EU_625.000000_0_APPL_2026-1-3: -22.6753
+Pricing Error For 8200 steps for EU_625.000000_0_APPL_2026-1-3: -58.2475
+Pricing Error For 8300 steps for EU_625.000000_0_APPL_2026-1-3: -81.9301
+Pricing Error For 8400 steps for EU_625.000000_0_APPL_2026-1-3: -94.3232
+Pricing Error For 8500 steps for EU_625.000000_0_APPL_2026-1-3: -95.9934
+Pricing Error For 8600 steps for EU_625.000000_0_APPL_2026-1-3: -87.4791
+Pricing Error For 8700 steps for EU_625.000000_0_APPL_2026-1-3: -69.2874
+Pricing Error For 8800 steps for EU_625.000000_0_APPL_2026-1-3: -41.8998
+Pricing Error For 8900 steps for EU_625.000000_0_APPL_2026-1-3: -5.77209
+Pricing Error For 9000 steps for EU_625.000000_0_APPL_2026-1-3: 38.6638
+Pricing Error For 9100 steps for EU_625.000000_0_APPL_2026-1-3: 58.8697
+Pricing Error For 9200 steps for EU_625.000000_0_APPL_2026-1-3: 11.818
+Pricing Error For 9300 steps for EU_625.000000_0_APPL_2026-1-3: -25.3918
+Pricing Error For 9400 steps for EU_625.000000_0_APPL_2026-1-3: -53.1989
+Pricing Error For 9500 steps for EU_625.000000_0_APPL_2026-1-3: -72.0212
+Pricing Error For 9600 steps for EU_625.000000_0_APPL_2026-1-3: -82.2568
+Pricing Error For 9700 steps for EU_625.000000_0_APPL_2026-1-3: -84.2846
+Pricing Error For 9800 steps for EU_625.000000_0_APPL_2026-1-3: -78.4649
+Pricing Error For 9900 steps for EU_625.000000_0_APPL_2026-1-3: -65.1423
+Pricing Error For 10000 steps for EU_625.000000_0_APPL_2026-1-3: -44.644
